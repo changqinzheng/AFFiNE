@@ -1,11 +1,8 @@
 {
-    "recommendations": [
-        "mikestead.dotenv",
-        "esbenp.prettier-vscode",
-        "visualstudioexptteam.vscodeintellicode",
-        "nrwl.angular-console",
-        "firsttris.vscode-jest-runner",
-        "dbaeumer.vscode-eslint",
-        "streetsidesoftware.code-spell-checker"
-    ]
+  "recommendations": [
+    "ms-playwright.playwright",
+    "esbenp.prettier-vscode",
+    "deepscan.vscode-deepscan",
+    "streetsidesoftware.code-spell-checker"
+  ]
 }
